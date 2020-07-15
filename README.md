@@ -7,4 +7,4 @@ Hi, I'm Elliott Zheng, a software engineer from China.
 - 👨🏻‍💻 I mainly use TypeScript and Python.
 - 💬 Ask me about anything [here](https://github.com/elliottzheng/elliottzheng)
 
-[![Elliott Zheng's github stats](https://github-readme-stats.vercel.app/api?username=elliottzheng&show_icons=true)](https://github.com/elliottzheng)
+![Elliott Zheng's github stats](https://github-readme-stats.vercel.app/api?username=elliottzheng&show_icons=true)
