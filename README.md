@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi, I'm Elliott Zheng, a software engineer from China.
+Hi, I'm Elliott Zheng, a researcher from China.
 
 - 🔭 I’m currently working on my project [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator).
 - 🌱 My research interest lies in Computer Vision and Computer Graphics.
