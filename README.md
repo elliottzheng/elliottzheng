@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<img src="https://komarev.com/ghpvc/?username=elliottzheng" alt="views" />
-
 Hi, I'm Elliott Zheng, a researcher and open source enthusiast from China.
 
 - 🔭 Past Endeavors: I created [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator), a tool that has significantly improved the translation workflow for many.
