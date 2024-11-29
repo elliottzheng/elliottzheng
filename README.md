@@ -8,6 +8,7 @@ Hi, I'm Elliott Zheng, a researcher and open source enthusiast from China.
 - 🔋 Additional Interests: I am also deeply interested in [AIoT (Artificial Intelligence of Things)](https://en.wikipedia.org/wiki/Artificial_intelligence_of_things), and have a passion for embedded development, particularly with the [ESP](https://www.espressif.com/en/products/socs/esp32) platform.
 - 👨🏻‍💻 I mainly use Python, TypeScript and C++. 
 - 💬 Ask me about anything here
+- ❤️ If you find my projects helpful, feel free to [Sponsor Me](https://github.com/elliottzheng/elliottzheng/blob/master/SPONSOR.md).
 
 Check out these highlighted projects below:
 
