@@ -12,10 +12,15 @@ Hi, I'm Elliott Zheng, a researcher and open source enthusiast from China.
 
 Check out these highlighted projects below:
 
-<table align="center" style="margin: 0 auto;">
-  <tr>
-    <td align="center"><a href="https://github.com/CopyTranslator/CopyTranslator"><img src="https://avatars.githubusercontent.com/u/46663677?s=200&v=4" width="100px;" alt=""/><br /><sub><b>CopyTranslator</b></sub><br />复制翻译</a></td>
-    <td align="center"><a href="https://github.com/OmniSteward/OmniSteward"><img src="https://github.com/user-attachments/assets/1d59abe7-3f9d-4cfb-9f97-eaf12dcd91d6" width="100px;" alt=""/><br /><sub><b>OmniSteward</b></sub><br />全能管家</a></td>
-  </tr>
-</table>
+*   [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator)：外文辅助阅读翻译解决方案，支持几十种语言，核心特色为复制即翻译。
+*   [batch-face](https://github.com/elliottzheng/batch-face)：⚡用于快速现代研究的批量人脸处理工具，集成检测、对齐、重建、姿态估计和解析。
+*   [NotebookLM2PPT](https://github.com/elliottzheng/NotebookLM2PPT)：🚀 将 NotebookLM 生成的 PDF 转换为完全可编辑的 PPT，支持自动化截图识别与合并。
+*   [OmniSteward](https://github.com/OmniSteward)：🐼基于LLM Agent的全能管家，通过语音或文字交互，调用工具控制智能家居(HomeAssistant/米家)和电脑。超高拓展性，无限可能。
+*   [ppt2fig](https://github.com/elliottzheng/ppt2fig)：📑 一键将当前打开的 PPT 页面导出为 PDF 并自动裁剪白边，专为科研人员论文作图设计。
+*   [google-ai-studio-markdown-exporter](https://github.com/elliottzheng/google-ai-studio-markdown-exporter)：导出 Google AI Studio 聊天记录为 Markdown 格式的油猴脚本。
+*   [askpapers](https://github.com/elliottzheng/askpapers)：文献综述调研智能工具，可对多篇论文提出相同问题并获取 AI 答案。
+*   [auto_wemeet](https://github.com/elliottzheng/auto_wemeet)：⌛ 腾讯会议批量自动定时入会工具（基于 Windows 任务计划程序）。
+*   [Flowing-CD-Wall](https://github.com/elliottzheng/Flowing-CD-Wall)：🎧 用喜欢的音乐创建流动的 CD 墙作为酷炫动态壁纸。
+
+
 
