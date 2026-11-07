@@ -11,7 +11,7 @@ Hi, I'm Elliott Zheng, a researcher and open source enthusiast from China.
 - ❤️ If you find my projects helpful, feel free to [Sponsor Me](https://github.com/elliottzheng/elliottzheng/blob/master/SPONSOR.md).
 
 Check out these highlighted projects below:
-
+*   [Deskport](https://github.com/elliottzheng/Deskport)：面向 Vibe Coder 的自托管个人电脑控制平台：打开浏览器就能完整控制自己的电脑，随时随地 Vibe Coding, SSH, 文件管理。
 *   [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator)：外文辅助阅读翻译解决方案，支持几十种语言，核心特色为复制即翻译。
 *   [batch-face](https://github.com/elliottzheng/batch-face)：⚡用于快速现代研究的批量人脸处理工具，集成检测、对齐、重建、姿态估计和解析。
 *   [NotebookLM2PPT](https://github.com/elliottzheng/NotebookLM2PPT)：🚀从 PDF 到全可编辑 PPT 的智能转换工具，让 NotebookLM 的演示文稿真正为你所用。
